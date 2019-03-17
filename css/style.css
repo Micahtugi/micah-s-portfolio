@@ -8,3 +8,7 @@
   margin: 20px
   background-color: yellow;
 }
+h2 {
+  color: green;
+  font-style: italic;
+}
