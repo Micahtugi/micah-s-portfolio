@@ -12,3 +12,7 @@ h2 {
   color: green;
   font-style: italic;
 }
+h1 {
+  color: blue;
+  font-style: oblique;
+}
